@@ -1,1 +1,3 @@
-# 2019-2020calendar
+# maven-project
+
+Simple Maven Project
